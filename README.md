@@ -6,7 +6,6 @@
 
 
 ![version :30.05.2026](https://img.shields.io/badge/version-30.05.2026-informational) &nbsp;
-[![GitHub Darshil-Ag](https://img.shields.io/github/followers/Darshil-Ag?label=follow&style=social)](https://github.com/Darshil-Ag)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨‍💻 &nbsp;About Me
 
