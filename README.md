@@ -15,7 +15,7 @@
 🏥 &nbsp;Built healthcare management systems, AI-powered risk prediction models, and scalable web applications. \
 📊 &nbsp;Interested in Artificial Intelligence, Machine Learning, Data Science, and Product Development. \
 🌱 &nbsp;Currently learning Data Structures & Algorithms, Advanced AI Systems, and Cloud Technologies. \
-🏆 &nbsp;Interned in software and marketing roles, working on healthcare, e-commerce, and AI-driven projects. \
+🏆 &nbsp;Interned in software roles, working on healthcare, e-commerce, and AI-driven projects. \
 🤝 &nbsp;Open to collaborations, internships, hackathons, and innovative projects. \
 📫 &nbsp;Reach me at [darshilagarwal2005@gmail.com](mailto:darshilagarwal2005@gmail.com). I'll try to respond as soon as possible! \
 💼 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/darshil-agarwal-3b7999351) for more details about my work and experience. \
@@ -44,25 +44,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP_Networking-0E76A8?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket_Programming-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2F3136?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-2F3136?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/Database_Management_Systems-2F3136?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-2F3136?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-2F3136?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2F3136?style=for-the-badge)
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-2F3136?style=for-the-badge)
-![AI & Automation](https://img.shields.io/badge/AI_%26_Automation-2F3136?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2F3136?style=for-the-badge)
-![Blockchain Basics](https://img.shields.io/badge/Blockchain_Basics-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Influencer Marketing Analytics](https://img.shields.io/badge/Influencer_Marketing_Analytics-2F3136?style=for-the-badge)
-![UTM Tracking](https://img.shields.io/badge/UTM_Tracking_%26_Attribution-2F3136?style=for-the-badge)
-![Technical SEO](https://img.shields.io/badge/Technical_SEO-2F3136?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DBMS](https://img.shields.io/badge/Database_Management_Systems-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AI & Automation](https://img.shields.io/badge/AI_%26_Automation-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-A855F7?style=for-the-badge&logo=openai&logoColor=white)
+![Blockchain Basics](https://img.shields.io/badge/Blockchain_Basics-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 
 ### ⚡ &nbsp;Fun Fact
